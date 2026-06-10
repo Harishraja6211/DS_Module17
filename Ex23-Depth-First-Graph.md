@@ -21,8 +21,7 @@ To design and implement a Python program to perform Breadth-First Search (BFS) t
 ```
 /*
 Program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph
-Developed by: T MOUNISH
-RegisterNumber:  212223240098
+
 */
 import java.util.*;
 
