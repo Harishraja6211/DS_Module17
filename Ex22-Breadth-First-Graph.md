@@ -32,8 +32,7 @@ To design and implement a Python program that constructs a Binary Search Tree (B
 ```
 /*
 Program to constructs a Binary Search Tree (BST) using given Book IDs 
-Developed by: T MOUNISH
-RegisterNumber:  212223240098
+
 */
 import java.util.*;
 
